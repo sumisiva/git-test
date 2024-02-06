@@ -1,0 +1,22 @@
+Assignment ON GIT:
+
+1. How to create local repository?
+  Hit: dir creation,
+
+
+2. How to create staging area?
+git restore --staged <file>.
+
+3. Create git hub account?
+
+4. Configure remote repository on your local system.
+
+5. Try to commit under push command on remote repository.
+
+6. Practice on Fetch and Merge.
+
+7. Create a small conflict file.
+    Make changes from 2 users on a same file ( use conflict )
+    and fix it
+
+8. Use cherry-pick  to add and delete anyone of the specific commit.
